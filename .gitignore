@@ -1,0 +1,4 @@
+# XCode
+build/
+project.xcworkspace/
+xcuserdata/
