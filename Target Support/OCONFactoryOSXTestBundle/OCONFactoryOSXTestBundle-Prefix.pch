@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'OCONFactoryOSXTestBundle' target in the 'OCONFactoryOSXTestBundle' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import <Cedar/SpecHelper.h>
+#endif
